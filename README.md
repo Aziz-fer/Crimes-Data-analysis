@@ -16,7 +16,10 @@ This dashboard focuses on analyzing crime data to identify trends, patterns, and
 - **Crimes by Country**: Categorizes crimes based on the location of occurrence.  
 - **Resolved vs. Unresolved Crimes**: Shows resolution rates with clear distinctions.  
 - **Monthly Crime Trends**: Includes percentage variance for month-over-month comparison.  
-- **Dangerous Times of Day**: Identifies high-risk time periods for crimes.  
+- **Dangerous Times of Day**: Identifies high-risk time periods for crimes.
+
+  ![crimes bi](https://github.com/user-attachments/assets/a9e0a5ff-77fc-47f7-b769-0f48ee0175c5)
+
 
 ---  
 
@@ -32,7 +35,10 @@ This dashboard provides insights into employee data, focusing on attrition, demo
 - **Attrition Trends**: Visualizes attrition over time using area charts.  
 - **Salary Hike vs. Attrition**: Explores relationships between salary hikes, travel, and attrition.  
 - **Job Role and Education**: Examines how education and job roles affect attrition rates.  
-- **Reset Button**: Resets all filters for default views.  
+- **Reset Button**: Resets all filters for default views.
+
+  ![image](https://github.com/user-attachments/assets/8a1d32f7-b9f5-401f-8955-686ac396d07b)
+
 
 ---  
 
@@ -49,6 +55,8 @@ This dashboard analyzes top 100 bestselling books on Amazon, exploring patterns 
 - **Verified vs. Non-Verified Reviews**: Explores differences in trustworthiness and sentiment.  
 - **Temporal Review Analysis**: Tracks review activity over time.  
 - **Review Length vs. Rating**: Investigates if review length correlates with rating positivity.  
+
+![image](https://github.com/user-attachments/assets/dfd8dd7c-1f0a-405b-8973-e70e703e4d25)
 
 ---
 
